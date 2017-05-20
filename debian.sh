@@ -2,7 +2,7 @@
 PS1="\[\e[0;32m\][\t] => \[\e[0m\]"
 clear
 echo -e "\033[0;32m=========================================="
-echo "=== Se o seu Sistema operacional for o Fedora ==="
+echo "=== Se o seu Sistema operacional for o Debian ==="
 echo "               Prossiga com a instalção          "
 echo -e "==========================================\033[0;32m"
 echo " "
